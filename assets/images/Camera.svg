@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <filter id="Ellipse_863" x="0" y="0" width="59" height="59" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="edit_pic" transform="translate(-192 -195)">
+    <g transform="matrix(1, 0, 0, 1, 192, 195)" filter="url(#Ellipse_863)">
+      <g id="Ellipse_863-2" data-name="Ellipse 863" transform="translate(17 17)" fill="#f9f9fc" stroke="#fff" stroke-width="2">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="13.5" fill="none"/>
+      </g>
+    </g>
+    <g id="vuesax_linear_camera" data-name="vuesax/linear/camera" transform="translate(-150 -103)">
+      <g id="camera" transform="translate(364 320)">
+        <path id="Vector" d="M2.824,12.5h6.55a2.273,2.273,0,0,0,2.494-2.344l.325-5.163A2.346,2.346,0,0,0,9.849,2.5a1.027,1.027,0,0,1-.906-.556l-.45-.906A2.063,2.063,0,0,0,6.817,0H5.386A2.064,2.064,0,0,0,3.7,1.038l-.45.906a1.027,1.027,0,0,1-.906.556A2.346,2.346,0,0,0,0,4.994L.33,10.156A2.269,2.269,0,0,0,2.824,12.5Z" transform="translate(1.401 1.25)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H1.875" transform="translate(6.563 5)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-3" data-name="Vector" d="M2.031,4.062A2.031,2.031,0,1,0,0,2.031,2.035,2.035,0,0,0,2.031,4.062Z" transform="translate(5.469 7.187)" fill="none" stroke="#1d2733" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H15V15H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

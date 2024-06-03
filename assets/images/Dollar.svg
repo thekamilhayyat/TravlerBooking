@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_dollar-circle" data-name="vuesax/linear/dollar-circle" transform="translate(-236 -572)">
+    <g id="dollar-circle" transform="translate(236 572)">
+      <path id="Vector" d="M0,5.667A1.842,1.842,0,0,0,1.8,7.556H3.835A1.612,1.612,0,0,0,5.407,5.91a1.419,1.419,0,0,0-1.07-1.565L1.07,3.21A1.419,1.419,0,0,1,0,1.646,1.612,1.612,0,0,1,1.573,0H3.608a1.842,1.842,0,0,1,1.8,1.889" transform="translate(9.303 8.222)" fill="none" stroke="#999b9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0V9.729" transform="translate(12.001 7.136)" fill="none" stroke="#999b9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Vector-3" data-name="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z" transform="translate(2 2)" fill="none" stroke="#999b9f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

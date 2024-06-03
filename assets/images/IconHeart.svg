@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="icon_fav" transform="translate(-1119.683 -46)">
+    <g id="vuesax_linear_heart" data-name="vuesax/linear/heart" transform="translate(883.683 -142)">
+      <g id="heart" transform="translate(236 188)">
+        <path id="Vector" d="M12.39,20.662a2.544,2.544,0,0,1-1.447,0C7.56,19.507,0,14.688,0,6.522A6.5,6.5,0,0,1,6.487,0a6.435,6.435,0,0,1,5.18,2.613A6.471,6.471,0,0,1,23.333,6.522C23.333,14.688,15.773,19.507,12.39,20.662Z" transform="translate(2.333 3.617)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Vector-2" data-name="Vector" d="M0,0H28V28H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-0.317)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="6.5" cy="6.5" r="6.5" transform="translate(1135 46)" fill="#ff3131"/>
+      <text id="A_transformative_tri" data-name="A transformative tri" transform="translate(1138.683 56)" fill="#fff" font-size="9" font-family="Poppins-Regular, Poppins" opacity="0.92"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+</svg>
